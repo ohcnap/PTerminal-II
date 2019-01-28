@@ -1,2 +1,2 @@
 # PTerminal-II
-documentar proycto terminal II
+Documentar Proyecto terminal II
